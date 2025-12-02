@@ -1,0 +1,28 @@
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  max-width: 800px;
+  margin: 2rem auto;
+  line-height: 1.6;
+}
+
+#banner-header a {
+  text-decoration: none;
+  color: inherit;
+}
+
+#beta {
+  float: right;
+  width: 30%;
+}
+
+#alpha {
+  float: left;
+  width: 65%;
+}
+
+#footer {
+  clear: both;
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  color: #666;
+}
