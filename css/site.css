@@ -76,6 +76,7 @@ body {
 
 .entry-content p {
   margin: 0 0 1rem;
+  text-align: justify;
 }
 
 /* Ensure images don’t overflow */
